@@ -15,3 +15,9 @@
  ![Snake animation](https://github.com/caio9correa/caio9correa/blob/output/github-contribution-grid-snake.svg)
  
  </div>
+  
+ <div align="Center">
+<a href="[https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/caio9correa/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "caio9correa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/caio-correa-barros-a40771206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
