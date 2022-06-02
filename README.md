@@ -10,5 +10,6 @@
  <img align="center" alt="Rafa-HTML" height="45" widht="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Rafa-CSS" height="45" widht="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Rafa-Python" height="45" widht="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+ ![Snake animation](https://github.com/caio9correa/caio9correa/blob/output/github-contribution-grid-snake.svg)
 </div>
- ![Snake animation] (https://github.com/caio9correa/caio9correa/blob/output/github-contribution-grid-snake.svg)
