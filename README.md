@@ -1,4 +1,4 @@
-<h1>Olá! Seja Bem-Vindo ao meu Perfil do GitHub :sunglasses:<h1>
+<h1>Bem-Vindo ao meu Perfil do GitHub :sunglasses:<h1>
 
 <div align="center">
   <a href="https://github.com/caio9correa">
