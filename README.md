@@ -11,9 +11,7 @@
  <img align="center" alt="Caio-CSS" height="45" widht="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Caio-Python" height="45" widht="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Caio-JavaScript" height="45" widht="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-  
- ![Snake animation](https://github.com/caio9correa/caio9correa/blob/output/github-contribution-grid-snake.svg)
+
  
  </div>
   
