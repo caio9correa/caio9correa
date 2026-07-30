@@ -75,8 +75,6 @@
 
 </div>
 
-> Essa animação é gerada automaticamente por uma GitHub Action — veja as instruções logo abaixo do arquivo de contatos.
-
 <br/>
 
 ## 📫 Contatos
